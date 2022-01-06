@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{681128A4-10B9-445D-9439-AA9C12B216F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ornek2", "ornek2\ornek2.csproj", "{A87777C7-10B8-4AE3-8044-6F2242B8D329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ornek3", "ornek3\ornek3.csproj", "{AECD89AE-731D-41ED-BB8F-CC0CEE216D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ornek4", "ornek4\ornek4.csproj", "{715A8412-D405-454C-9C63-07BE76794CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ornek5", "ornek5\ornek5.csproj", "{3C18F3B8-37D7-43E9-898E-5F5A7FA4CBC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ornek6", "ornek6\ornek6.csproj", "{E5C8A27F-8F37-4DF8-B271-A06863E5A153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681128A4-10B9-445D-9439-AA9C12B216F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681128A4-10B9-445D-9439-AA9C12B216F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681128A4-10B9-445D-9439-AA9C12B216F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681128A4-10B9-445D-9439-AA9C12B216F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87777C7-10B8-4AE3-8044-6F2242B8D329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87777C7-10B8-4AE3-8044-6F2242B8D329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87777C7-10B8-4AE3-8044-6F2242B8D329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87777C7-10B8-4AE3-8044-6F2242B8D329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECD89AE-731D-41ED-BB8F-CC0CEE216D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECD89AE-731D-41ED-BB8F-CC0CEE216D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECD89AE-731D-41ED-BB8F-CC0CEE216D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECD89AE-731D-41ED-BB8F-CC0CEE216D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715A8412-D405-454C-9C63-07BE76794CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715A8412-D405-454C-9C63-07BE76794CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715A8412-D405-454C-9C63-07BE76794CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715A8412-D405-454C-9C63-07BE76794CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C18F3B8-37D7-43E9-898E-5F5A7FA4CBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C18F3B8-37D7-43E9-898E-5F5A7FA4CBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C18F3B8-37D7-43E9-898E-5F5A7FA4CBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C18F3B8-37D7-43E9-898E-5F5A7FA4CBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C8A27F-8F37-4DF8-B271-A06863E5A153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C8A27F-8F37-4DF8-B271-A06863E5A153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C8A27F-8F37-4DF8-B271-A06863E5A153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C8A27F-8F37-4DF8-B271-A06863E5A153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA526526-96E0-4AA7-958A-5B1609EFE64C}
+	EndGlobalSection
+EndGlobal
